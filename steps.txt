@@ -7,3 +7,5 @@ $ npm i --save-dev nodemon
 $ git init
 create .gitignore file with node_modules/ inside
 $ git add .
+$ git commit -m "primeros pasos de un server"
+$ git remote add origin https://github.com/EduardBargues/20201219_migracode.git
